@@ -1,2 +1,3 @@
 # First-github-project
-this my first github repository. 
+This is my first github repository. 
+Author Soham Badarkhe
